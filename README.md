@@ -1,1 +1,1 @@
-Teaching myself the foundations of deep learning.
+Idiot with laptop tries to build neural net.
