@@ -1,1 +1,3 @@
-Idiot with laptop tries to build neural net.
+Simple neural net, built from scratch in python.
+
+[health.willcbradley.com](health.willcbradley.com)
