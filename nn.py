@@ -95,7 +95,7 @@ def update_params():
         params[f"b{l}"] -= learning_rate * gradient_cache[f"db{l}"]
 
 def train():
-    init_params([2,8,1])
+    init_params([2,8,1]) # Layer/neuron numbers can be tweaked as required
     L = len(params) // 2
     for epoch in range(epochs):
         forward_pass(inputs, params)
